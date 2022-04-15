@@ -3,3 +3,4 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshk1205)](https://solved.ac/jshk1205)<br>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jshk1205&theme=dark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jshk1205=anuraghazra&show_icons=true&theme=radical)
